@@ -4,7 +4,6 @@
 <p align="center"> $\color{#9E874F}{\textsf{He/They prns, 28 january}}$
 <p align="center"> $\color{#9E874F}{\textsf{Rus (maybe eng)}}$
 <p align="center"> $\color{#9E874F}{\textsf{@Ch1nazek <3}}$
-<p align="center"> $\color{#9E874F}{\textsf{(hey it looks better on the PS version.)}}$
 <p align="center"> $\color{#9E874F}{\textsf{✩࿐࿔ }}$
 <p align="center"> $\color{#9E874F}{\textsf{ㅤ ㅤ}}$
 <p align="center"> $\color{#9E874F}{\textsf{ ㅤ}}$
